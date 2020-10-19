@@ -1,0 +1,2 @@
+http://ec2-3-236-59-153.compute-1.amazonaws.com:8080/
+http://ec2-3-236-59-153.compute-1.amazonaws.com:8080/CalidadServApi-0.0.1-SNAPSHOT/producto/lista
